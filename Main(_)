@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pumpkin patch</title>
+<style>
+
+#headers1 {
+font-family: helvetica;
+}
+#headers2 {
+font-family: helvetica;
+padding-left : 50px;
+padding-right: 20px;
+}
+#Headers{
+  text-align: right;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  background-color: lightgrey;
+  color: White;
+}
+</style>
+
+
+
+</head>
+<body>
+<p id = "Headers"> <strong id="headers1" ><a onclick="tre()" href="html/home.html" > Home</a></strong><strong id="headers2">Pumpkins</strong></p>
+<a href="html/home.html"></a>
+<script>
+  function tre(){
+  
+}
+</script>
+
+</body>
+
+
+</html>
